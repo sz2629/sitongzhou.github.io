@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello World Jekyll Site
 
 ## To preview locally
@@ -16,6 +15,3 @@ Then visit http://localhost:4000
 5. git remote add origin https://github.com/<yourusername>/<yourusername>.github.io.git
 6. git push -u origin main
 7. In repo Settings > Pages, set Source to the main branch
-=======
-# sitongzhou.github.io
->>>>>>> f02d8085ad734483640da83d6b587e1e0463d336
